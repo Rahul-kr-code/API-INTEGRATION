@@ -36,6 +36,9 @@ https://icanhazdadjoke.com/
 
 ⚙️ How It Works
 User clicks the "Get Joke" button
+##output
+<img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/df8dadfa-9ddb-48f5-bc61-c88a528bc723" />
+<img width="1919" height="1032" alt="Image" src="https://github.com/user-attachments/assets/4470bd1f-3302-477f-8aac-b1cf72eefe06" />
 JavaScript sends a request to the API using fetch()
 The API returns a random joke in JSON format
 The joke is displayed dynamically on the webpage
